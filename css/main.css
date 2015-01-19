@@ -16,7 +16,6 @@ h2 {
     font-size:25px;
     font-weight: bold;
     color: #F07C17;
-    word-spacing: -2.2px;
 }
 
 .main-features h2 {
@@ -39,15 +38,9 @@ h2 {
 }
 
 .main-features {
-    margin-top: 30px;
+    margin-top: 29px;
     border: solid 1px #CCCCCC;
-}
-
-.mockup-overlay {
-    top: 0;
-    position: absolute;
-    z-index: -1;
-    opacity: .4;
+    padding-bottom:29px;
 }
 
 .content {
